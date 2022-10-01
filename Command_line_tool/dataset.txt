@@ -1,0 +1,16 @@
+show_id:s939 type:Movie title:Motu Patlu in the Game of Zones director:Suhas Kadav country:India data_added:5/1/2021 release_year:2019 rating:TV-Y7 duration:87 min listed_in:"Children & Family Movies
+show_id:s940 type:Movie title:Motu Patlu in Wonderland director:Suhas Kadav country:India data_added:5/1/2021 release_year:2013 rating:TV-Y7 duration:76 min listed_in:"Children & Family Movies
+show_id:s941 type:Movie title:Motu Patlu: Deep Sea Adventure director:Suhas Kadav country:India data_added:5/1/2021 release_year:2014 rating:TV-Y7 duration:76 min listed_in:"Children & Family Movies
+show_id:s942 type:Movie title:Motu Patlu: Mission Moon director:Suhas Kadav country:India data_added:5/1/2021 release_year:2013 rating:TV-Y7 duration:71 min listed_in:"Children & Family Movies
+show_id:s938 type:Movie title:Motu Patlu in Dragon's World director:Suhas Kadav country:India data_added:5/1/2021 release_year:2017 rating:TV-Y7 duration:78 min listed_in:"Children & Family Movies
+show_id:s1007 type:Movie title:Motu Patlu Dino Invasion director:Suhas Kadav country:India data_added:4/20/2021 release_year:2018 rating:TV-Y7 duration:80 min listed_in:"Children & Family Movies
+show_id:s1008 type:Movie title:Motu Patlu in Octupus World director:Suhas Kadav country:India data_added:4/20/2021 release_year:2017 rating:TV-Y duration:81 min listed_in:"Children & Family Movies
+show_id:s1009 type:Movie title:Motu Patlu VS Robo Kids director:Suhas Kadav country:India data_added:4/20/2021 release_year:2019 rating:TV-Y duration:84 min listed_in:Children & Family Movies
+show_id:s1072 type:Movie title:Motu Patlu in Hong Kong: Kung Fu Kings 3 director:Suhas Kadav country:India data_added:4/13/2021 release_year:2017 rating:TV-Y7 duration:84 min listed_in:"Children & Family Movies
+show_id:s1073 type:Movie title:Motu Patlu in the City of Gold director:Suhas Kadav country:India data_added:4/13/2021 release_year:2018 rating:TV-Y7 duration:77 min listed_in:"Children & Family Movies
+show_id:s1074 type:Movie title:Motu Patlu Kung Fu Kings 4 The Challenge of Kung Fu Brothers director:Suhas Kadav country:India data_added:4/13/2021 release_year:2018 rating:TV-Y7 duration:86 min listed_in:"Children & Family Movies
+show_id:s1075 type:Movie title:Motu Patlu the Superheroes – Super Villains from Mars director:Suhas Kadav country:India data_added:4/13/2021 release_year:2019 rating:TV-Y7 duration:79 min listed_in:Children & Family Movies
+show_id:s1077 type:Movie title:Shiva VS Autobots director:Suhas Kadav country:India data_added:4/13/2021 release_year:2018 rating:TV-Y7 duration:80 min listed_in:Children & Family Movies
+show_id:s1078 type:Movie title:Shiva: Journey to Plunotaria director:Suhas Kadav country:India data_added:4/13/2021 release_year:2019 rating:TV-Y7 duration:81 min listed_in:Children & Family Movies
+show_id:s1079 type:Movie title:Shiva: The Secret World Of Vedas City director:Suhas Kadav country:India data_added:4/13/2021 release_year:2017 rating:TV-Y duration:78 min listed_in:Children & Family Movies
+show_id:s7514 type:Movie title:Motu Patlu: King of Kings director:Suhas Kadav country:India data_added:7/6/2017 release_year:2016 rating:TV-Y7-FV duration:109 min listed_in:"Children & Family Movies
